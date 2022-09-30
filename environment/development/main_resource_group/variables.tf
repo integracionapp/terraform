@@ -3,5 +3,5 @@ variable group_name {
 }
 
 variable location {
-    default = "eastus"
+    default = "westus2"
 }
